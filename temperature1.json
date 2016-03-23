@@ -1,0 +1,11 @@
+{
+    "event": "temperature1",
+    "url": "http://xxx.xxxx.xxx/xx/xx/x.php",
+    "requestType": "POST",
+    "query": {
+        "x": "{{node}}",
+        "v": "{{volts}}",
+	      "m": "{{temp1}}"
+    },
+    "mydevices": true
+}
